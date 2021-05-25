@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Audrey ✨
 
+
+I am a software engineer based out of LA who loves to create and 🌱 cultivate a positive community and use 💻 technology and all of my resources to do so. I am currently designing an  accessories webstore, working with other software engineers on an exciting new project🤫, and learning more about Data Structures & Algorithms, and  Apollo Graphql.
 <!--
 **audreyyun/audreyyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
